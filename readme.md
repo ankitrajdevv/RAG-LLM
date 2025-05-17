@@ -1,1 +1,1 @@
-pip install langchain openai faiss-cpu python-dotenv
+pip install python-dotenv sentence-transformers faiss-cpu google-generativeai
